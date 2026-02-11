@@ -1,0 +1,22 @@
+# React Native
+node_modules/
+.expo/
+.expo-shared/
+buck-out/
+.android/
+.ios/
+web-build/
+*.jks
+*.pk8
+*.pem
+*.keystore
+*.so
+*~
+*.swp
+*.log
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
