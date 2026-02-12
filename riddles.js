@@ -1,23 +1,45 @@
 const riddles = [
     {
-        riddle: "What has keys but can't open locks?",
-        hint: "You use it to play music."
+        id: 1,
+        riddle: "Ho un volto ma non ho occhi",
+        answer: "orologio",
+        hint: "Lo trovi spesso in casa e ti dice l'ora.",
+        difficulty: "easy"
     },
     {
-        riddle: "What has to be broken before you can use it?",
-        hint: "It's often eaten."
+        id: 2,
+        riddle: "Più peso, meno mi vedi",
+        answer: "buio",
+        hint: "È l'assenza di luce.",
+        difficulty: "easy"
     },
     {
-        riddle: "I’m tall when I’m young, and I’m short when I’m old. What am I?",
-        hint: "You often see me at a birthday party."
+        id: 3,
+        riddle: "Ho piedi ma non cammino, ho ali ma non volo",
+        answer: "compasso",
+        hint: "Si usa per disegnare circonferenze.",
+        difficulty: "medium"
     },
     {
-        riddle: "I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",
-        hint: "I can be heard but not seen."
+        id: 4,
+        riddle: "Salgo quando piove, scendo quando non piove",
+        answer: "ombrello",
+        hint: "Ti protegge dalla pioggia.",
+        difficulty: "medium"
     },
     {
-        riddle: "The more of this there is, the less you see. What is it?",
-        hint: "It can make things disappear."
+        id: 5,
+        riddle: "Sono nero, bianco e rosso",
+        answer: "cartina",
+        hint: "Si usa per orientarsi.",
+        difficulty: "hard"
+    },
+    {
+        id: 6,
+        riddle: "Più invecchio, più sono giovane",
+        answer: "vino",
+        hint: "Può migliorare con il tempo.",
+        difficulty: "hard"
     }
 ];
 
